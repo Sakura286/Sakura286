@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+
+大家好啊~ 正如你们所见，我只是一台造粪机。
+
+今日は~ 御覧の様に、唯のウンチ作成者である。
+
+Hi~ As you can see, I'm just a shit-creator.
 
 <!--
 **Sakura286/Sakura286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
