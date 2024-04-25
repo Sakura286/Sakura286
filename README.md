@@ -6,6 +6,8 @@
 
 Hi~ As you can see, I'm just a shit-creator.
 
+![discord-state](https://discord-activity.deno.dev/api/977381107190349864?idleMessage=MotorCycling)
+
 <!--
 **Sakura286/Sakura286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
