@@ -6,7 +6,7 @@
 
 Hi~ As you can see, I'm just a shit-creator.
 
-![discord-state](https://discord-activity.deno.dev/api/977381107190349864?idleMessage=MotorCycling)
+[![Discord Presence](https://lanyard.cnrad.dev/api/977381107190349864)](https://discord.com/users/977381107190349864)
 
 <!--
 **Sakura286/Sakura286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
